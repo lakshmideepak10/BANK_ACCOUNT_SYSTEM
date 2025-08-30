@@ -41,3 +41,13 @@ This project demonstrates core **Object-Oriented Programming (OOP)** concepts li
 ---
 
 ## 📂 Project Structure
+BankAccountManagementSystem/   <-- main project folder
+├── src/                       <-- source code folder
+│   ├── bank/                  <-- package
+│   │   ├── app/               <-- subpackage for application runner
+│   │   │   └── Main.java      <-- entry point
+│   │   └── models/            <-- subpackage for models
+│   │       ├── Bankaccount.java
+│   │       └── Savingsaccount.java
+├── README.md                  <-- documentation file
+
